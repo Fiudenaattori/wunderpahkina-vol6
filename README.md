@@ -25,7 +25,9 @@ _Esimerkkejä suurimmista säiliöistä._
 - Nopeus on yksi eleganssin osa-alue.
 - Vastauksen lähettäjä sallii ratkaisuun käytetyn lähdekoodin julkaisun.
 
-Lähetä vastauksesi viimeistään keskiviikkona 5.4.2017 osoitteeseen pahkina@wunderdog.fi. Raati kokoontuu perjantaina 7.4.2017 ja julkaisee voittajan sen jälkeen.
+*Vastausaika on päättynyt.*
+
+Raati kokoontuu perjantaina 7.4.2017 ja julkaisee voittajan sen jälkeen.
 
 Voittaja palkitaan Sphero SPRK+ ohjelmoitavalla älypallolla.
 
@@ -57,7 +59,9 @@ _Examples of the biggest square._
 - Performance is a part of elegance.
 - The participant gives Wunderdog the right to publish their source code used in the submitted solutions.
 
-Send your solution to pahkina@wunderdog.fi by the end of 5.4.2017. Jury will select the winner on 7.4.2017 and the results will be announced after that.
+*The submission deadline has passed.*
+
+Jury will select the winner on 7.4.2017 and the results will be announced after that.
 
 Winner will be rewarded with a Sphero SPRK+.
 
