@@ -25,7 +25,7 @@ _Esimerkkejä suurimmista säiliöistä._
 - Nopeus on yksi eleganssin osa-alue.
 - Vastauksen lähettäjä sallii ratkaisuun käytetyn lähdekoodin julkaisun.
 
-*Vastausaika on päättynyt.*
+**Vastausaika on päättynyt.**
 
 Raati kokoontuu perjantaina 7.4.2017 ja julkaisee voittajan sen jälkeen.
 
@@ -59,7 +59,7 @@ _Examples of the biggest square._
 - Performance is a part of elegance.
 - The participant gives Wunderdog the right to publish their source code used in the submitted solutions.
 
-*The submission deadline has passed.*
+**The submission deadline has passed.**
 
 Jury will select the winner on 7.4.2017 and the results will be announced after that.
 
