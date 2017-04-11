@@ -1,5 +1,3 @@
-Moikka!
-
 Ohessa pari kirjoittamaani ratkaisua tuoreimpaan wunderpähkinään.
 
 Ensimmäinen on kirjoitettu C++11:llä, ja lukee syötteensä standard inputista. Koodin voi ajaa ja kääntää esimerkiksi:
